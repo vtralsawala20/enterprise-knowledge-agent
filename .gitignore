@@ -14,3 +14,9 @@ __pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Generated outputs
+backend/data/*.txt
+
+# Sample documents
+backend/data/*.pdf
